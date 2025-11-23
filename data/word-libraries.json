@@ -1,0 +1,12 @@
+{
+  "wordLibraries": [
+    {
+      "id": "animals",
+      "name": "动物世界",
+      "words": [
+        {"character": "猫", "pinyin": "māo", "image": "cat.png", "example": "小猫"},
+        {"character": "狗", "pinyin": "gǒu", "image": "dog.png", "example": "小狗"}
+      ]
+    }
+  ]
+}
